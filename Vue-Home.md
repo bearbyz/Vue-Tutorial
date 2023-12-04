@@ -1,28 +1,28 @@
 # Vue Tutorial
 
-## Learn Vue
+## เรียนรู้ Vue
 
-Vue is a popular JavaScript framework.
+Vue เป็นเฟรมเวิร์ก JavaScript ยอดนิยม
 
-User interfaces built in Vue updates automatically when data changes.
+User interfaces ที่สร้างขึ้นใน Vue จะอัปเดตโดยอัตโนมัติเมื่อข้อมูลมีการเปลี่ยนแปลง
 
-Vue is easy to learn.
-
-
-
-## This Tutorial
-
-This tutorial is specially designed to help you learn Vue as quickly and efficiently as possible.
-
-First, you will learn the basics of Vue: text interpolation, directives, and how to incorporate events and forms into your project.
-
-Then you will learn everything else you need to know about Vue:
-
-Computed properties, watchers, methods, setup for Single-File Components (SFCs, *.vue files), and more.
+วิวเป็นเรื่องง่ายที่จะเรียนรู้
 
 
 
-### Example
+## บทแนะนำนี้
+
+บทแนะนำนี้ได้รับการออกแบบมาเป็นพิเศษเพื่อช่วยให้คุณเรียนรู้ Vue ได้อย่างรวดเร็วและมีประสิทธิภาพที่สุด
+
+ขั้นแรก คุณจะได้เรียนรู้พื้นฐานของ Vue: การแก้ไขข้อความ คำสั่ง และวิธีการรวมเหตุการณ์และแบบฟอร์มเข้ากับโปรเจ็กต์ของคุณ
+
+จากนั้นคุณจะได้เรียนรู้ทุกสิ่งที่คุณจำเป็นต้องรู้เกี่ยวกับ Vue:
+
+Computed properties, watchers, methods, การตั้งค่าสำหรับ Single-File Components (SFCs, *.vue files),  และอื่น ๆ
+
+
+
+### ตัวอย่าง
 
 ```html
 <h1>"Hello, World!" Example</h1>
@@ -30,9 +30,11 @@ Computed properties, watchers, methods, setup for Single-File Components (SFCs, 
 <div id="app">{{ message }}</div>
 ```
 
-## What You Should Already Know
 
-Before you study Vue, you should have a basic understanding of:
+
+## สิ่งที่คุณควรรู้อยู่แล้ว
+
+ก่อนที่คุณจะเรียน Vue คุณควรมีความเข้าใจพื้นฐานเกี่ยวกับ:
 
 - [HTML](https://www.w3schools.com/html/default.asp)
 - [CSS](https://www.w3schools.com/css/default.asp)
@@ -40,8 +42,8 @@ Before you study Vue, you should have a basic understanding of:
 
 
 
-## Vue History
+## ประวัติศาสตร์ของ Vue
 
-Evan You, a Google employee using AngularJS, started to develop Vue in 2013.
+Evan You พนักงานของ Google ที่ใช้ AngularJS เริ่มพัฒนา Vue ในปี 2013
 
-Vue version 1.0 was released in 2015.
+Vue เวอร์ชัน 1.0 เปิดตัวในปี 2558
