@@ -104,12 +104,12 @@
     }
   })
   app.mount('#app')
-</script>xxxxxxxxxx <div id="app">  <p>Move the mouse pointer over the box below</p>  <div v-on:mousemove="colorVal=Math.floor(Math.random()*360)"       v-bind:style="{backgroundColor:'hsl('+colorVal+',80%,80%)'}">  </div></div><script src="https://unpkg.com/vue@3/dist/vue.global.js"></script><script>  const app = Vue.createApp({    data() {      return {        colorVal: 50      }    }  })  app.mount('#app')</script><p v-for="(x, index) in manyFoods">  {{ index }}: "{{ x }}" <br></p>
+</script>
 ```
 
 
 
-## ใช้ v-on ใน a v-for Loop
+## ใช้ v-on ใน v-for Loop
 
 คุณยังสามารถใช้คำสั่ง v-on ภายใน v-for loop ได้
 

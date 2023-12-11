@@ -74,5 +74,5 @@ v-show ใช้งานง่ายเนื่องจากมีการ�
     }
   })
   app.mount('#app')
-</script>xxxxxxxxxx <div id="app">  <div v-show="showDiv">Div tag with v-show</div>  <div v-if="showDiv">Div tag with v-if</div></div><script src="https://unpkg.com/vue@3/dist/vue.global.js"></script><script>  const app = Vue.createApp({    data() {      return {        showDiv: true      }    }  })  app.mount('#app')</script><div v-bind:style="{ fontSize: size }">  Text example</div>
+</script>
 ```
